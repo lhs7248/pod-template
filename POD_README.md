@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 pod '${POD_NAME}'
 ```
 
-## Author
+## Author/作者
 
 ${USER_NAME}, ${USER_EMAIL}
 
